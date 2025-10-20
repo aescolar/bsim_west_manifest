@@ -67,9 +67,9 @@ manifest:
       groups:
         - babblesim
     - name: babblesim_ext_2G4_modem_BLE_simple
-      repo-path: ext_2G4_modem_BLE_simple
+      repo-path: ext_2G4_modem_BLE_simple_future
       path: bsim/components/ext_2G4_modem_BLE_simple
-      revision: 3712283f0bd3a982f620908579c99af35e969554
+      revision: 183d149c70cc8cc2f9b0d7c55c53b02e8cdcc0fc
       groups:
         - babblesim
     - name: babblesim_ext_2G4_modem_magic
