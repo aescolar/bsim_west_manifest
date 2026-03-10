@@ -21,7 +21,7 @@ manifest:
     - name: babblesim_base
       repo-path: base
       path: bsim/components
-      revision: f65b51253f401591b0b734905ddb52b8d554a7d1
+      revision: 1cce925c72805cfdbb6341ca8c0755c7d42699d3
       groups:
         - babblesim
     - name: babblesim_ext_2G4_channel_NtNcable
