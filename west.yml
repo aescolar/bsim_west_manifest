@@ -21,7 +21,7 @@ manifest:
     - name: babblesim_base
       repo-path: base
       path: bsim/components
-      revision: 122b0d6fc1b23b3d678bfbaedb68c53d64b3f3bd
+      revision: 68baf150660213d67c29acb14bf9fccecf4612eb
       groups:
         - babblesim
     - name: babblesim_ext_2G4_channel_NtNcable
@@ -63,7 +63,7 @@ manifest:
     - name: babblesim_ext_2G4_libPhyComv1
       repo-path: ext_2G4_libPhyComv1
       path: bsim/components/ext_2G4_libPhyComv1
-      revision: 23e7a84f5bc452a361ab30acf3abb9dbdb57e9a8
+      revision: 27eb408f952182a646eac1abb7dc12b7b565655b
       groups:
         - babblesim
     - name: babblesim_ext_2G4_modem_BLE_simple
